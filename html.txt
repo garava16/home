@@ -1,0 +1,16 @@
+* {
+background: navy;
+}
+
+header {
+	font-color: #66FFCC; 
+	font-family: Futura;
+	font-weight: bold;
+	font-size:20px; 
+	}
+
+p {
+	font-color: black; 
+	font-family: calibri; 
+	font-size: 14;
+	}
