@@ -1,0 +1,22 @@
+*{
+  background-color: #E0FFEB;
+}
+
+h1{
+  font-family: Gotham Medium;
+}
+
+body{
+  font-family: Gotham Light;
+}
+
+#main li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #195050;  
+  font-family: 'Raleway', sans-serif;
+	} 
+
+#main li a:hover { 
+	color: #5E8484; 
+	} 
